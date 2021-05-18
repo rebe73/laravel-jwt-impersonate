@@ -1,5 +1,5 @@
 {
-    "name": "rickycezar/laravel-jwt-impersonate",
+    "name": "rebe73/laravel-jwt-impersonate",
     "description": "Laravel Impersonate is a plugin that allows to you to authenticate as your users.",
     "type": "library",
     "keywords": [
